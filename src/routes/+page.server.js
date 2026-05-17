@@ -49,3 +49,5 @@ export const actions = {
     return { success: true };
   }
 };
+
+// Final build verified and fully connected to Neon Postgres.
